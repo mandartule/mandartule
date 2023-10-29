@@ -16,8 +16,8 @@
 Feel free to reach out, and let's create something amazing together! 😊✨
 
 ## 🌱 Projects 🚀
-
 - **Candy Museum:** 🍭 One of my first projects built with HTML, CSS, and Bootstrap. [[Check it out here](https://mandartule.github.io/Project-CandyMuseum/)]
+- **Pricing Panel:** 🍭 This is one of my early projects created using HTML and CSS. [[Check it out here](https://mandartule.github.io/Project-PricingPanel/)]
 - **YouTube Channel:** 🎥 I create educational content and share my knowledge through YouTube videos. 
 
 ## 📚 Learning Journey 🚀
