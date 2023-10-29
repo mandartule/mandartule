@@ -16,8 +16,9 @@
 Feel free to reach out, and let's create something amazing together! 😊✨
 
 ## 🌱 Projects 🚀
+- **Score Keeper:** 🏓 This project is a simple Ping Pong Score Keeper implemented using HTML, CSS (Bulma framework), and JavaScript. [Check it out here](https://mandartule.github.io/Project-Score_Keeper)]
 - **Candy Museum:** 🍭 One of my first projects built with HTML, CSS, and Bootstrap. [[Check it out here](https://mandartule.github.io/Project-CandyMuseum/)]
-- **Pricing Panel:** 🍭 This is one of my early projects created using HTML and CSS. [[Check it out here](https://mandartule.github.io/Project-PricingPanel/)]
+- **Pricing Panel:** 💰 This is one of my early projects created using HTML and CSS. [[Check it out here](https://mandartule.github.io/Project-PricingPanel/)]
 - **YouTube Channel:** 🎥 I create educational content and share my knowledge through YouTube videos. 
 
 ## 📚 Learning Journey 🚀
