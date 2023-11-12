@@ -22,7 +22,7 @@ Feel free to reach out, and let's create something amazing together! 😊✨
 ## 📚 Learning Journey 🚀
 
 - I'm currently learning MERN Stack Development to enhance my web development skills.
-- I have  2⭐ at Leetcode and solve questions on leetcode daily.
+- I have  2⭐ at Leetcode and solve questions on leetcode daily.  [[Check it out here](https://leetcode.com/mandartule/)]
 - I'm passionate about teaching and sharing my knowledge with others, both in person and through online platforms.
 
 ## 📫 Let's Connect! 🌐
