@@ -3,10 +3,9 @@
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 	</a>
 </h1>
-<h3 align="center">My interests are</h3>
+<h3 >My interests are : </h3>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Web+Developement;Learning+DSA)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **MERN Stack Development**
