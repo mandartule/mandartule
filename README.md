@@ -8,10 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **MERN Stack Development**
-- 💬 Ask me about **Programming**
-- 📫 How to reach me: **mandartule5@gmail.com**
-
 # 🌱 Projects 🚀
 - ###  [**Hungry**](https://hungry-y.web.app) 🍽️ Welcome to the Hungry project! This is a food ordering app prototype made with React. 
 - ###  [**Campify:**](https://campify-fg5r.onrender.com/) ⛺️ Campify is a web application that helps users find camping camps nearby, add their own camps, and review others' camps.
@@ -19,6 +15,12 @@
 -  [**Candy Museum:**](https://mandartule.github.io/Project-CandyMuseum/) 🍭 One of my first projects built with HTML, CSS, and Bootstrap. 
 - [**Pricing Panel:** ](https://mandartule.github.io/Project-PricingPanel/)💰 This is one of my early projects created using HTML and CSS.
 
+## Here are some of my achievements:
+- ✅ Solved 500+ DSA Questions on various coding platforms.
+- 🏆 Consistently earned the LeetCode 100 Days Badge for two consecutive years.
+- 🥇 Ranked 5780/24500 in LeetCode Weekly contest 396.
+- 🚀 Achieved a maximum rating of 900+ on Codeforces.
+  
  ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mandar_tule/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandartule)
 
