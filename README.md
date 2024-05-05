@@ -12,17 +12,18 @@
 - 💬 Ask me about **Programming**
 - 📫 How to reach me: **mandartule5@gmail.com**
 
-## 🌐 Connect with me:
+# 🌱 Projects 🚀
+- ###  [**Hungry**](https://hungry-y.web.app) 🍽️ Welcome to the Hungry project! This is a food ordering app prototype made with React. 
+- ###  [**Campify:**](https://campify-05lq.onrender.com) ⛺️ Campify is a web application that helps users find camping camps nearby, add their own camps, and review others' camps.
+- [**Score Keeper:**](https://mandartule.github.io/Project-Score_Keeper) 🏓 This project is a simple Ping Pong Score Keeper implemented using HTML, CSS (Bulma framework), and JavaScript. 
+-  [**Candy Museum:**](https://mandartule.github.io/Project-CandyMuseum/) 🍭 One of my first projects built with HTML, CSS, and Bootstrap. 
+- [**Pricing Panel:** ](https://mandartule.github.io/Project-PricingPanel/)💰 This is one of my early projects created using HTML and CSS.
+
+ ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mandar_tule/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandartule)
 
 Feel free to reach out, and let's create something amazing together! 😊✨
 
-## 🌱 Projects 🚀
-- [**Hungry**](https://hungry-y.web.app) 🍽️ Welcome to the Hungry project! This is a food ordering app prototype made with React. 
-- [**Campify:**](https://campify-05lq.onrender.com) ⛺️ Campify is a web application that helps users find camping camps nearby, add their own camps, and review others' camps.
-- [**Score Keeper:**](https://mandartule.github.io/Project-Score_Keeper) 🏓 This project is a simple Ping Pong Score Keeper implemented using HTML, CSS (Bulma framework), and JavaScript. 
-- [**Candy Museum:**](https://mandartule.github.io/Project-CandyMuseum/) 🍭 One of my first projects built with HTML, CSS, and Bootstrap. 
-- [**Pricing Panel:** ](https://mandartule.github.io/Project-PricingPanel/)💰 This is one of my early projects created using HTML and CSS. 
 
 ## 📚 Learning Journey 🚀
 
