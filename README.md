@@ -4,11 +4,11 @@
 	</a>
 </h1>
 
+
 <h3 >My interests are : </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandartule&label=Profile%20views&color=0e75b6&style=flat" alt="mandartule" /> </p>
 
 # 🌱 Projects 🚀
 - ###  [**Hungry**](https://hungry-y.web.app) 🍽️ Welcome to the Hungry project! This is a food ordering app prototype made with React. 
@@ -25,6 +25,7 @@
   
  ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mandar_tule/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandartule)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandartule&label=Profile%20views&color=0e75b6&style=flat" alt="mandartule" /> </p>
 
 Feel free to reach out, and let's create something amazing together! 😊✨
 
