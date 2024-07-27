@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D8F713&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Open+Source+Contributions)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandartule&label=Profile%20views&color=0e75b6&style=flat" alt="mandartule" /> </p>
+
 # 🌱 Projects 🚀
 - ###  [**Hungry**](https://hungry-y.web.app) 🍽️ Welcome to the Hungry project! This is a food ordering app prototype made with React. 
 - ###  [**Campify:**](https://campify-fg5r.onrender.com/) ⛺️ Campify is a web application that helps users find camping camps nearby, add their own camps, and review others' camps.
