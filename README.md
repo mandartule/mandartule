@@ -15,7 +15,7 @@ Currently pursuing **Computer Engineering** at **Sandip Institute of Technology 
 
 # 🌱 Featured Projects 🚀
 
-- ### [**WhereIsMyLoo**](https://github.com/mandartule/WhereIsMyLoo)| [Live Demo](whereismyloo.onrender.com)🚽
+- ### [**WhereIsMyLoo**](https://github.com/mandartule/WhereIsMyLoo)| [Live Demo](https://whereismyloo.onrender.com)🚽
   **Location-based restroom finder** with **Node.js, Express, MongoDB**
   - Geolocation services for nearby facilities
   - RESTful API design and database optimization
